@@ -1,6 +1,6 @@
 # RADON Integration
 
-[![Build Status](https://travis-ci.com/UST-CTT/radon-ctt-integration.svg?branch=master)](https://travis-ci.com/UST-CTT/radon-ctt-integration)
+[![Build Status](https://travis-ci.com/UST-CTT/radon-ctt-integration.svg?branch=gmt-xopera-integration)](https://travis-ci.com/UST-CTT/radon-ctt-integration)
 
 Integration and regression test setup for [RADON CTT](https://github.com/radon-h2020/radon-ctt)
 
